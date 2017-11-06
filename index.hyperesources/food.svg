@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="158px" height="44px" viewBox="0 0 158 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>food</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="food" transform="translate(0.000000, -1.000000)">
+            <polygon id="Fill-1" fill="#740E50" points="0 44.0332 157.384 44.0332 157.384 0.9992 0 0.9992"></polygon>
+            <text id="Food-&amp;-Beverages" font-family="UnileverDINOffcPro-Bold, Unilever DIN Offc Pro" font-size="12.91" font-weight="bold" letter-spacing="-0.386304" fill="#FFFFFF">
+                <tspan x="45" y="27">F</tspan>
+                <tspan x="51.843296" y="27">ood &amp; B</tspan>
+                <tspan x="96.899196" y="27" letter-spacing="-0.128768">e</tspan>
+                <tspan x="103.716008" y="27" letter-spacing="-0.13005568">v</tspan>
+                <tspan x="109.821482" y="27">e</tspan>
+                <tspan x="116.896162" y="27" letter-spacing="-0.128768">r</tspan>
+                <tspan x="122.512344" y="27">ages</tspan>
+            </text>
+            <g id="Group-12" transform="translate(0.000000, 4.033200)">
+                <path d="M35.769,18.4834 C35.769,8.5804 27.762,0.5524 17.884,0.5524 C8.007,0.5524 0,8.5804 0,18.4834 C0,28.3864 8.007,36.4144 17.884,36.4144 C27.762,36.4144 35.769,28.3864 35.769,18.4834" id="Fill-2" fill="#740E50"></path>
+                <path d="M30.5646,17.449 C30.5646,18.882 24.8326,20.044 17.7616,20.044 C10.6906,20.044 4.9586,18.882 4.9586,17.449 C4.9586,16.016 10.6906,14.854 17.7616,14.854 C24.8326,14.854 30.5646,16.016 30.5646,17.449" id="Fill-4" fill="#FBB03B"></path>
+                <path d="M21.4906,22.3455 L21.3416,22.2225 C20.8316,21.8035 20.7576,21.0425 21.1756,20.5325 L29.3616,10.5325 C29.7796,10.0215 30.5386,9.9465 31.0486,10.3655 L31.1976,10.4885 C31.7066,10.9075 31.7816,11.6685 31.3636,12.1795 L23.1766,22.1795 C22.7586,22.6895 21.9996,22.7645 21.4906,22.3455" id="Fill-6" fill="#754C24"></path>
+                <path d="M28.6604,20.2514 C28.6604,20.2514 23.0004,16.5944 20.9884,16.5944 C18.9764,16.5944 16.7124,18.4864 16.7124,18.4864 C16.7124,18.4864 11.3044,16.8464 7.8454,19.2424 C7.8454,19.2424 8.8514,23.4664 15.7694,24.0974 C22.6864,24.7274 27.2144,21.6384 28.6604,20.2514" id="Fill-8" fill="#FFFCD9"></path>
+                <path d="M30.5646,17.449 C30.5646,17.449 24.8326,20.044 17.7616,20.044 C10.6906,20.044 4.9586,17.449 4.9586,17.449 C4.9586,17.449 5.5036,28.604 17.7616,28.604 C30.0196,28.604 30.5646,17.449 30.5646,17.449" id="Fill-10" fill="#F15A24"></path>
+            </g>
+        </g>
+    </g>
+</svg>
